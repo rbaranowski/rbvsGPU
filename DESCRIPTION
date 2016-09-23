@@ -1,0 +1,14 @@
+Package: rbvsGPU
+Type: Package
+Title: Ranking-Based Variable Selection on GPU
+Version: 1.0
+Date: 2016-09-23
+Author: Rafal Baranowski
+Maintainer: Rafal Baranowski <r.baranowski@lse.ac.uk>
+Depends:
+    rbvs
+Description: The package provides routines extending the R package rbvs in order
+    to perform some of the computations on a NVidia GPU.
+License: GPL (>= 2)
+NeedsCompilation: yes
+RoxygenNote: 5.0.1
